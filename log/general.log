@@ -1,0 +1,602 @@
+2022-08-25 07:42:20 INFO  Prueba4Application:38 - Hotel Inner: Hilton Colon
+2022-08-25 07:42:20 INFO  Prueba4Application:38 - Hotel Inner: Plaza
+2022-08-25 07:43:38 INFO  Prueba4Application:38 - Hotel Inner: Hilton Colon
+2022-08-25 07:43:38 INFO  Prueba4Application:38 - Hotel Inner: Plaza
+2022-08-25 07:46:03 INFO  Prueba4Application:38 - Hotel Inner: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:47:23 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:49:01 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:49:01 INFO  Prueba4Application:46 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:49:01 INFO  Prueba4Application:54 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:59:39 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:59:39 INFO  Prueba4Application:42 - 
+2022-08-25 07:59:39 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:59:39 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:59:39 INFO  Prueba4Application:46 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-25 07:59:39 INFO  Prueba4Application:51 - 
+
+2022-08-25 07:59:39 INFO  Prueba4Application:55 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:59:39 INFO  Prueba4Application:59 - 
+
+2022-08-25 07:59:39 INFO  Prueba4Application:63 - 3HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:59:39 INFO  Prueba4Application:63 - 3HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 07:59:39 INFO  Prueba4Application:63 - 3HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-25 07:59:39 INFO  Prueba4Application:63 - 3HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-25 07:59:39 INFO  Prueba4Application:71 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:06:36 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:06:36 INFO  Prueba4Application:42 - 
+2022-08-25 08:06:36 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:06:36 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:06:36 INFO  Prueba4Application:46 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-25 08:06:36 INFO  Prueba4Application:51 - 
+
+2022-08-25 08:06:36 INFO  Prueba4Application:55 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:06:36 INFO  Prueba4Application:59 - 
+
+2022-08-25 08:06:36 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:06:36 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:06:36 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-25 08:06:36 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-25 08:06:36 INFO  Prueba4Application:71 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:08:43 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:08:43 INFO  Prueba4Application:42 - 
+2022-08-25 08:08:43 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:08:43 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:08:43 INFO  Prueba4Application:46 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-25 08:08:43 INFO  Prueba4Application:51 - 
+
+2022-08-25 08:08:43 INFO  Prueba4Application:55 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:08:43 INFO  Prueba4Application:59 - 
+
+2022-08-25 08:08:43 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:08:43 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-25 08:08:43 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-25 08:08:43 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-25 08:08:43 INFO  Prueba4Application:68 - 
+RIGHT JOIN
+2022-08-25 08:08:43 INFO  Prueba4Application:72 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:52:27 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:52:27 INFO  Prueba4Application:42 - 
+2022-08-26 00:52:27 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:52:27 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:52:27 INFO  Prueba4Application:46 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 00:52:27 INFO  Prueba4Application:51 - 
+
+2022-08-26 00:52:27 INFO  Prueba4Application:55 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:52:27 INFO  Prueba4Application:59 - 
+
+2022-08-26 00:52:27 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:52:27 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:52:27 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 00:52:27 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 00:52:27 INFO  Prueba4Application:68 - 
+RIGHT JOIN
+2022-08-26 00:52:27 INFO  Prueba4Application:72 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:52:27 INFO  Prueba4Application:78 - 
+JOIN WHERE
+2022-08-26 00:52:27 INFO  Prueba4Application:82 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:53:57 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:53:57 INFO  Prueba4Application:42 - 
+2022-08-26 00:53:57 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:53:57 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:53:57 INFO  Prueba4Application:46 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 00:53:57 INFO  Prueba4Application:51 - 
+
+2022-08-26 00:53:57 INFO  Prueba4Application:55 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:53:57 INFO  Prueba4Application:59 - 
+
+2022-08-26 00:53:58 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:53:58 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:53:58 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 00:53:58 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 00:53:58 INFO  Prueba4Application:68 - 
+RIGHT JOIN
+2022-08-26 00:53:58 INFO  Prueba4Application:72 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:53:58 INFO  Prueba4Application:78 - 
+JOIN WHERE
+2022-08-26 00:53:58 INFO  Prueba4Application:82 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:53:58 INFO  Prueba4Application:82 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 00:54:17 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:17 INFO  Prueba4Application:42 - 
+2022-08-26 00:54:17 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:17 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:17 INFO  Prueba4Application:46 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 00:54:17 INFO  Prueba4Application:51 - 
+
+2022-08-26 00:54:17 INFO  Prueba4Application:55 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:17 INFO  Prueba4Application:59 - 
+
+2022-08-26 00:54:17 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:17 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:17 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 00:54:17 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 00:54:17 INFO  Prueba4Application:68 - 
+RIGHT JOIN
+2022-08-26 00:54:17 INFO  Prueba4Application:72 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:17 INFO  Prueba4Application:78 - 
+JOIN WHERE
+2022-08-26 00:54:17 INFO  Prueba4Application:82 - HOTEL join WHERE: Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]
+2022-08-26 00:54:17 INFO  Prueba4Application:82 - HOTEL join WHERE: Hotel [id=2, nombre=Plaza, direccion=Av. 6 de Diciembre]
+2022-08-26 00:54:45 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:45 INFO  Prueba4Application:42 - 
+2022-08-26 00:54:45 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:45 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:45 INFO  Prueba4Application:46 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 00:54:45 INFO  Prueba4Application:51 - 
+
+2022-08-26 00:54:45 INFO  Prueba4Application:55 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:45 INFO  Prueba4Application:59 - 
+
+2022-08-26 00:54:45 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:45 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:45 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 00:54:45 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 00:54:45 INFO  Prueba4Application:68 - 
+RIGHT JOIN
+2022-08-26 00:54:45 INFO  Prueba4Application:72 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:45 INFO  Prueba4Application:78 - 
+JOIN WHERE
+2022-08-26 00:54:45 INFO  Prueba4Application:82 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 00:54:45 INFO  Prueba4Application:82 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:04:48 INFO  Prueba4Application:38 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:04:48 INFO  Prueba4Application:42 - 
+2022-08-26 01:04:48 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:04:48 INFO  Prueba4Application:46 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:04:48 INFO  Prueba4Application:46 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:04:48 INFO  Prueba4Application:51 - 
+
+2022-08-26 01:04:48 INFO  Prueba4Application:55 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:04:48 INFO  Prueba4Application:59 - 
+
+2022-08-26 01:04:48 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:04:48 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:04:48 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:04:48 INFO  Prueba4Application:63 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 01:04:48 INFO  Prueba4Application:68 - 
+RIGHT JOIN
+2022-08-26 01:04:48 INFO  Prueba4Application:72 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:04:48 INFO  Prueba4Application:78 - 
+JOIN WHERE
+2022-08-26 01:04:48 INFO  Prueba4Application:82 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:04:48 INFO  Prueba4Application:82 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:04:48 INFO  Prueba4Application:88 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 01:04:48 INFO  Prueba4Application:92 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:04:48 INFO  Prueba4Application:93 - [Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]], Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]]
+2022-08-26 01:18:15 INFO  Prueba4Application:39 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:18:15 INFO  Prueba4Application:43 - 
+2022-08-26 01:18:15 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:18:15 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:18:15 INFO  Prueba4Application:47 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:18:15 INFO  Prueba4Application:52 - 
+
+2022-08-26 01:18:15 INFO  Prueba4Application:56 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:18:15 INFO  Prueba4Application:60 - 
+
+2022-08-26 01:18:15 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:18:15 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:18:15 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:18:15 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 01:18:15 INFO  Prueba4Application:69 - 
+RIGHT JOIN
+2022-08-26 01:18:15 INFO  Prueba4Application:73 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:18:15 INFO  Prueba4Application:79 - 
+JOIN WHERE
+2022-08-26 01:18:15 INFO  Prueba4Application:83 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:18:15 INFO  Prueba4Application:83 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:18:15 INFO  Prueba4Application:89 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 01:18:15 INFO  Prueba4Application:93 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:18:15 INFO  Prueba4Application:95 - [Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]], Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]]
+2022-08-26 01:18:15 INFO  Prueba4Application:95 - [Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]], Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]]
+2022-08-26 01:32:38 INFO  Prueba4Application:39 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:32:38 INFO  Prueba4Application:43 - 
+2022-08-26 01:32:38 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:32:38 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:32:38 INFO  Prueba4Application:47 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:32:38 INFO  Prueba4Application:52 - 
+
+2022-08-26 01:32:38 INFO  Prueba4Application:56 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:32:38 INFO  Prueba4Application:60 - 
+
+2022-08-26 01:32:38 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:32:38 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:32:38 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:32:38 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 01:32:38 INFO  Prueba4Application:69 - 
+RIGHT JOIN
+2022-08-26 01:32:38 INFO  Prueba4Application:73 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:32:38 INFO  Prueba4Application:79 - 
+JOIN WHERE
+2022-08-26 01:32:38 INFO  Prueba4Application:83 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:32:38 INFO  Prueba4Application:83 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:32:38 INFO  Prueba4Application:89 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 01:32:38 INFO  Prueba4Application:93 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:32:38 INFO  Prueba4Application:95 - [Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]], Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]]
+2022-08-26 01:34:35 INFO  Prueba4Application:39 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:34:35 INFO  Prueba4Application:43 - 
+2022-08-26 01:34:35 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:34:35 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:34:35 INFO  Prueba4Application:47 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:34:35 INFO  Prueba4Application:52 - 
+
+2022-08-26 01:34:35 INFO  Prueba4Application:56 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:34:35 INFO  Prueba4Application:60 - 
+
+2022-08-26 01:34:35 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:34:35 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:34:35 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:34:35 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 01:34:35 INFO  Prueba4Application:69 - 
+RIGHT JOIN
+2022-08-26 01:34:35 INFO  Prueba4Application:73 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:34:35 INFO  Prueba4Application:79 - 
+JOIN WHERE
+2022-08-26 01:34:35 INFO  Prueba4Application:83 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:34:35 INFO  Prueba4Application:83 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:34:35 INFO  Prueba4Application:89 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 01:34:35 INFO  Prueba4Application:93 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:34:35 INFO  Prueba4Application:95 - Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 01:34:35 INFO  Prueba4Application:95 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 01:43:53 INFO  Prueba4Application:39 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:43 - 
+2022-08-26 01:43:53 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:47 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:43:53 INFO  Prueba4Application:52 - 
+
+2022-08-26 01:43:53 INFO  Prueba4Application:56 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:60 - 
+
+2022-08-26 01:43:53 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:43:53 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 01:43:53 INFO  Prueba4Application:69 - 
+RIGHT JOIN
+2022-08-26 01:43:53 INFO  Prueba4Application:73 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:79 - 
+JOIN WHERE
+2022-08-26 01:43:53 INFO  Prueba4Application:83 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:83 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 01:43:53 INFO  Prueba4Application:89 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 01:43:53 INFO  Prueba4Application:93 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:95 - Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 01:43:53 INFO  Prueba4Application:95 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 01:43:53 INFO  Prueba4Application:102 - 
+JOIN FETCH
+2022-08-26 01:43:53 INFO  HotelServiceImpl:86 - Transaccion activa service: false
+2022-08-26 01:43:53 INFO  HotelRepositoryImpl:130 - Transaccion activa repository: true
+2022-08-26 01:43:53 INFO  Prueba4Application:106 - HOTEL JOIN FETCH: Hilton Colon, Dirección: Av. Patria
+2022-08-26 01:43:53 INFO  Prueba4Application:108 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 04:22:31 INFO  Prueba4Application:39 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:43 - 
+2022-08-26 04:22:31 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:47 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 04:22:31 INFO  Prueba4Application:52 - 
+
+2022-08-26 04:22:31 INFO  Prueba4Application:56 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:60 - 
+
+2022-08-26 04:22:31 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 04:22:31 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 04:22:31 INFO  Prueba4Application:69 - 
+RIGHT JOIN
+2022-08-26 04:22:31 INFO  Prueba4Application:73 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:79 - 
+JOIN WHERE
+2022-08-26 04:22:31 INFO  Prueba4Application:83 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:83 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 04:22:31 INFO  Prueba4Application:89 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 04:22:31 INFO  Prueba4Application:93 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:95 - Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 04:22:31 INFO  Prueba4Application:95 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 04:22:31 INFO  Prueba4Application:102 - 
+JOIN FETCH
+2022-08-26 04:22:31 INFO  HotelServiceImpl:86 - Transaccion activa service: false
+2022-08-26 04:22:31 INFO  HotelRepositoryImpl:129 - Transaccion activa repository: true
+2022-08-26 04:22:31 INFO  Prueba4Application:106 - HOTEL JOIN FETCH: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:22:31 INFO  Prueba4Application:108 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 04:22:31 INFO  Prueba4Application:113 - 
+
+2022-08-26 04:28:28 INFO  Prueba4Application:39 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:28:28 INFO  Prueba4Application:43 - 
+2022-08-26 04:28:28 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:28:28 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:28:28 INFO  Prueba4Application:47 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 04:28:28 INFO  Prueba4Application:52 - 
+
+2022-08-26 04:28:28 INFO  Prueba4Application:56 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:28:28 INFO  Prueba4Application:60 - 
+
+2022-08-26 04:28:28 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:28:28 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:28:28 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 04:28:28 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 04:28:28 INFO  Prueba4Application:69 - 
+RIGHT JOIN
+2022-08-26 04:28:28 INFO  Prueba4Application:73 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:28:28 INFO  Prueba4Application:79 - 
+JOIN WHERE
+2022-08-26 04:28:28 INFO  Prueba4Application:83 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:28:28 INFO  Prueba4Application:83 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 04:28:28 INFO  Prueba4Application:89 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 04:28:28 INFO  Prueba4Application:93 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:28:28 INFO  Prueba4Application:95 - Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 04:28:28 INFO  Prueba4Application:95 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 04:28:28 INFO  Prueba4Application:102 - 
+JOIN FETCH
+2022-08-26 04:28:28 INFO  HotelServiceImpl:86 - Transaccion activa service: false
+2022-08-26 04:33:46 INFO  Prueba4Application:39 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:43 - 
+2022-08-26 04:33:46 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:47 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:47 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 04:33:46 INFO  Prueba4Application:52 - 
+
+2022-08-26 04:33:46 INFO  Prueba4Application:56 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:60 - 
+
+2022-08-26 04:33:46 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 04:33:46 INFO  Prueba4Application:64 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 04:33:46 INFO  Prueba4Application:69 - 
+RIGHT JOIN
+2022-08-26 04:33:46 INFO  Prueba4Application:73 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:79 - 
+JOIN WHERE
+2022-08-26 04:33:46 INFO  Prueba4Application:83 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:83 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 04:33:46 INFO  Prueba4Application:89 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 04:33:46 INFO  Prueba4Application:93 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:95 - Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 04:33:46 INFO  Prueba4Application:95 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 04:33:46 INFO  Prueba4Application:102 - 
+JOIN FETCH
+2022-08-26 04:33:46 INFO  HotelServiceImpl:86 - Transaccion activa service: false
+2022-08-26 04:33:46 INFO  HotelRepositoryImpl:130 - Transaccion activa repository: true
+2022-08-26 04:33:46 INFO  Prueba4Application:106 - HOTEL JOIN FETCH: Hilton Colon, Dirección: Av. Patria
+2022-08-26 04:33:46 INFO  Prueba4Application:108 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 04:33:46 INFO  Prueba4Application:113 - 
+
+2022-08-26 07:19:17 INFO  Prueba4Application:43 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:47 - 
+2022-08-26 07:19:17 INFO  Prueba4Application:51 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:51 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:51 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 07:19:17 INFO  Prueba4Application:56 - 
+
+2022-08-26 07:19:17 INFO  Prueba4Application:60 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:64 - 
+
+2022-08-26 07:19:17 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 07:19:17 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 07:19:17 INFO  Prueba4Application:73 - 
+RIGHT JOIN
+2022-08-26 07:19:17 INFO  Prueba4Application:77 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:83 - 
+JOIN WHERE
+2022-08-26 07:19:17 INFO  Prueba4Application:87 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:87 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 07:19:17 INFO  Prueba4Application:93 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 07:19:17 INFO  Prueba4Application:97 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:99 - Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 07:19:17 INFO  Prueba4Application:99 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 07:19:17 INFO  Prueba4Application:106 - 
+JOIN FETCH
+2022-08-26 07:19:17 INFO  HotelServiceImpl:86 - Transaccion activa service: false
+2022-08-26 07:19:17 INFO  HotelRepositoryImpl:130 - Transaccion activa repository: true
+2022-08-26 07:19:17 INFO  Prueba4Application:110 - HOTEL JOIN FETCH: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:17 INFO  Prueba4Application:112 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 07:19:17 INFO  Prueba4Application:117 - 
+
+2022-08-26 07:19:18 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-26 07:19:48 INFO  Prueba4Application:43 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:47 - 
+2022-08-26 07:19:48 INFO  Prueba4Application:51 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:51 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:51 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 07:19:48 INFO  Prueba4Application:56 - 
+
+2022-08-26 07:19:48 INFO  Prueba4Application:60 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:64 - 
+
+2022-08-26 07:19:48 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 07:19:48 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 07:19:48 INFO  Prueba4Application:73 - 
+RIGHT JOIN
+2022-08-26 07:19:48 INFO  Prueba4Application:77 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:83 - 
+JOIN WHERE
+2022-08-26 07:19:48 INFO  Prueba4Application:87 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:87 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 07:19:48 INFO  Prueba4Application:93 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 07:19:48 INFO  Prueba4Application:97 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:99 - Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 07:19:48 INFO  Prueba4Application:99 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 07:19:48 INFO  Prueba4Application:106 - 
+JOIN FETCH
+2022-08-26 07:19:48 INFO  HotelServiceImpl:86 - Transaccion activa service: false
+2022-08-26 07:19:48 INFO  HotelRepositoryImpl:130 - Transaccion activa repository: true
+2022-08-26 07:19:48 INFO  Prueba4Application:110 - HOTEL JOIN FETCH: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:19:48 INFO  Prueba4Application:112 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 07:19:48 INFO  Prueba4Application:117 - 
+
+2022-08-26 07:19:48 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-26 07:24:20 INFO  Prueba4Application:43 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:47 - 
+2022-08-26 07:24:20 INFO  Prueba4Application:51 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:51 - HOTEL INNER: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:51 - HOTEL INNER: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 07:24:20 INFO  Prueba4Application:56 - 
+
+2022-08-26 07:24:20 INFO  Prueba4Application:60 - HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:64 - 
+
+2022-08-26 07:24:20 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 07:24:20 INFO  Prueba4Application:68 - 4HOTEL LEFT JOIN: Altar, Dirección: Av. 6 de Diciembre
+2022-08-26 07:24:20 INFO  Prueba4Application:73 - 
+RIGHT JOIN
+2022-08-26 07:24:20 INFO  Prueba4Application:77 - HOTEL RIGHT JOIN: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:83 - 
+JOIN WHERE
+2022-08-26 07:24:20 INFO  Prueba4Application:87 - HOTEL join WHERE: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:87 - HOTEL join WHERE: Plaza, Dirección: Av. 6 de Diciembre
+2022-08-26 07:24:20 INFO  Prueba4Application:93 - 
+INNER JOIN EAGER/LAZY
+2022-08-26 07:24:20 INFO  Prueba4Application:97 - HOTEL INNER, LAZY: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:99 - Habitacion [id=1, numero=10re, piso=8, tipo=familiar, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 07:24:20 INFO  Prueba4Application:99 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 07:24:20 INFO  Prueba4Application:106 - 
+JOIN FETCH
+2022-08-26 07:24:20 INFO  HotelServiceImpl:86 - Transaccion activa service: false
+2022-08-26 07:24:20 INFO  HotelRepositoryImpl:130 - Transaccion activa repository: true
+2022-08-26 07:24:20 INFO  Prueba4Application:110 - HOTEL JOIN FETCH: Hilton Colon, Dirección: Av. Patria
+2022-08-26 07:24:20 INFO  Prueba4Application:112 - Habitacion [id=2, numero=12re, piso=10, tipo=individual, hotel=Hotel [id=1, nombre=Hilton Colon, direccion=Av. Patria]]
+2022-08-26 07:24:20 INFO  Prueba4Application:117 - 
+
+2022-08-26 07:24:20 INFO  HotelRepositoryImpl:28 - Transaccion activa repository: true
+2022-08-26 09:33:23 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 09:36:55 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 09:36:55 INFO  MainInterfacesFuncionales:22 - Supplier lambda: Edison2
+2022-08-26 09:37:07 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 09:37:07 INFO  MainInterfacesFuncionales:22 - Supplier lambda: com.uce.edu.demo.service.funcional.MainInterfacesFuncionales$$Lambda$27/0x00000001000c1d68@4a87761d
+2022-08-26 09:46:36 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 09:46:36 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 09:46:36 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 09:46:36 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 09:51:18 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 09:51:18 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 09:51:18 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 09:51:18 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 09:54:50 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 09:54:50 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 09:54:50 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 09:54:50 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 09:56:31 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 09:56:31 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 09:56:31 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 09:56:31 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 09:58:18 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 09:58:18 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 09:58:18 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 09:58:18 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 10:00:44 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 10:00:44 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 10:00:44 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 10:00:44 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 10:22:22 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 10:22:22 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 10:22:22 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 10:22:22 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 10:22:22 INFO  MainInterfacesFuncionales:42 - Predicate Lambda: true
+2022-08-26 10:26:38 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 10:26:38 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 10:26:38 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 10:26:38 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 10:26:38 INFO  MainInterfacesFuncionales:42 - Predicate Lambda: true
+2022-08-26 10:26:38 INFO  MainInterfacesFuncionales:49 - Function Lambd: 4
+2022-08-26 10:30:04 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 10:30:04 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 10:30:04 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 10:30:04 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 10:30:04 INFO  MainInterfacesFuncionales:42 - Predicate Lambda: true
+2022-08-26 10:30:04 INFO  MainInterfacesFuncionales:50 - Function Lambda: el nombre Jeff tiene una longitud de 4
+2022-08-26 10:33:46 INFO  MainInterfacesFuncionales:18 - Supplier clase: Edison
+2022-08-26 10:33:46 INFO  MainInterfacesFuncionales:21 - Supplier clase: Daniel TE
+2022-08-26 10:33:46 INFO  MainInterfacesFuncionales:25 - Supplier lambda: Edison2
+2022-08-26 10:33:46 INFO  MainInterfacesFuncionales:28 - Supplier lambda: Daniel TE
+2022-08-26 10:33:46 INFO  MainInterfacesFuncionales:42 - Predicate Lambda: true
+2022-08-26 10:33:46 INFO  MainInterfacesFuncionales:50 - Function Lambda: el nombre Jeff tiene una longitud de 4
+2022-08-26 10:33:46 INFO  MainInterfacesFuncionales:57 - Unary Operator lambda: Jeff Satur
+2022-08-26 10:54:37 INFO  MainInterfacesFuncionales:22 - Supplier clase: Edison
+2022-08-26 10:54:37 INFO  MainInterfacesFuncionales:25 - Supplier clase: Daniel TE
+2022-08-26 10:54:37 INFO  MainInterfacesFuncionales:29 - Supplier lambda: Edison2
+2022-08-26 10:54:37 INFO  MainInterfacesFuncionales:32 - Supplier lambda: Daniel TE
+2022-08-26 10:54:37 INFO  MainInterfacesFuncionales:36 - Metodo High Order en Supplier
+2022-08-26 10:54:37 INFO  MainInterfacesFuncionales:50 - Predicate Lambda: true
+2022-08-26 10:54:37 INFO  MainInterfacesFuncionales:58 - Function Lambda: el nombre Jeff tiene una longitud de 4
+2022-08-26 10:54:37 INFO  MainInterfacesFuncionales:65 - Unary Operator lambda: Jeff Satur
+2022-08-26 10:54:37 INFO  MainInterfacesFuncionales:69 - 
+
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:22 - Supplier clase: Edison
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:25 - Supplier clase: Daniel TE
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:29 - Supplier lambda: Edison2
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:32 - Supplier lambda: Daniel TE
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:36 - Metodo High Order en Supplier
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:39 - Metodo High Order en Supplier2
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:54 - Predicate Lambda: true
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:62 - Function Lambda: el nombre Jeff tiene una longitud de 4
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:69 - Unary Operator lambda: Jeff Satur
+2022-08-26 10:56:36 INFO  MainInterfacesFuncionales:73 - 
+
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:22 - Supplier clase: Edison
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:25 - Supplier clase: Daniel TE
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:29 - Supplier lambda: Edison2
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:32 - Supplier lambda: Daniel TE
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:36 - Metodo High Order en Supplier
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:57 - Predicate Lambda: true
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:61 - High Order predicate: true
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:68 - Function Lambda: el nombre Jeff tiene una longitud de 4
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:75 - Unary Operator lambda: Jeff Satur
+2022-08-26 11:07:23 INFO  MainInterfacesFuncionales:79 - 
+
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:22 - Supplier clase: Edison
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:25 - Supplier clase: Daniel TE
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:29 - Supplier lambda: Edison2
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:32 - Supplier lambda: Daniel TE
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:36 - Metodo High Order en Supplier
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:57 - Predicate Lambda: true
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:61 - High Order predicate: true
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:70 - Function Lambda: el nombre Jeff tiene una longitud de 4
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:78 - High Order Function: 1A
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:85 - Unary Operator lambda: Jeff Satur
+2022-08-26 11:37:05 INFO  MainInterfacesFuncionales:89 - 
+
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:22 - Supplier clase: Edison
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:25 - Supplier clase: Daniel TE
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:29 - Supplier lambda: Edison2
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:32 - Supplier lambda: Daniel TE
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:36 - Metodo High Order en Supplier
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:57 - Predicate Lambda: true
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:61 - High Order predicate: true
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:65 - 
+FUNCTION
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:71 - Function Lambda: el nombre Jeff tiene una longitud de 4
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:79 - High Order Function: 1A
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:86 - Unary Operator lambda: Jeff Satur
+2022-08-26 11:38:57 INFO  MainInterfacesFuncionales:90 - 
+
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:22 - Supplier clase: Edison
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:25 - Supplier clase: Daniel TE
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:29 - Supplier lambda: Edison2
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:32 - Supplier lambda: Daniel TE
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:36 - Metodo High Order en Supplier
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:57 - Predicate Lambda: true
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:61 - High Order predicate: true
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:65 - 
+FUNCTION
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:71 - Function Lambda: el nombre Jeff tiene una longitud de 4
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:79 - High Order Function: 1A
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:83 - 
+Unary Operator
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:87 - Unary Operator lambda: Jeff Satur
+2022-08-26 11:39:49 INFO  MainInterfacesFuncionales:91 - 
+
